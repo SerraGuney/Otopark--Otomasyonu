@@ -1,0 +1,10 @@
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\bin\Debug\_arac_otopark_sistemi.exe.config
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\bin\Debug\_arac_otopark_sistemi.exe
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\bin\Debug\_arac_otopark_sistemi.pdb
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.csproj.AssemblyReference.cache
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.Form1.resources
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.Properties.Resources.resources
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.csproj.GenerateResource.cache
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.csproj.CoreCompileInputs.cache
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.exe
+D:\_arac_otopark_sistemi\_arac_otopark_sistemi\obj\Debug\_arac_otopark_sistemi.pdb
